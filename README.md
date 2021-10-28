@@ -1,0 +1,1 @@
+# Patternuri-creationale
